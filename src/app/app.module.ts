@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LazyDemoComponent } from './lazy-demo/lazy-demo.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LazyDemoComponent
   ],
   imports: [
     BrowserModule,
