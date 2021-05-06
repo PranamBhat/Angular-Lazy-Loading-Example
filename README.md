@@ -4,11 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 -------------------------------------------------------------
 
-<img src="/screenshots/Angular-Lazy-Loading-Template.jpg" width="800"  />
+<img src="/screenshots/Angular-Lazy-Loading-Template.jpg" width="1000"  />
 
 -------------------------------------------------------------
 
-<img src="/screenshots/Angular-Lazy-Loading-Example 1.JPG" width="800"  />
+<img src="/screenshots/Angular-Lazy-Loading-Example 1.JPG" width="1000"  />
 
 -------------------------------------------------------------
 
