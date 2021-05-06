@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 -------------------------------------------------------------
 
-<img src="/screenshots/Angular-Lazy-Loading-Template.JPG" />
+<img src="/screenshots/Angular-Lazy-Loading-Template.jpg" />
 
 -------------------------------------------------------------
 
