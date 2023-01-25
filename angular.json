@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Lazy-Loading-Example"
+    }
+  },
+  "defaultProject": "Angular-Lazy-Loading-Example",
+  "cli": {
+    "analytics": false
+  }
 }

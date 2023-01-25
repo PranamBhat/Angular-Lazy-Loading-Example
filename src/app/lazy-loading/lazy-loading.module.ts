@@ -2,13 +2,10 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { LazyLoadingRoutingModule } from './lazy-loading-routing.module';
-
+import { LazyDemoComponent } from './lazy-demo/lazy-demo.component';
 
 @NgModule({
-  declarations: [],
-  imports: [
-    CommonModule,
-    LazyLoadingRoutingModule
-  ]
+  declarations: [LazyDemoComponent],
+  imports: [CommonModule, LazyLoadingRoutingModule],
 })
-export class LazyLoadingModule { }
+export class LazyLoadingModule {}
